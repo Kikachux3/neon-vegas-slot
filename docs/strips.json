@@ -1,0 +1,7 @@
+{
+  "reel1": ["A","K","Q","J","10","chips","dice","bar","seven","wild","A","Q","J","chips","scatter","K","10","dice","bar","A","seven","wild","Q","J","chips","pick"],
+  "reel2": ["A","K","Q","J","10","chips","dice","bar","seven","wild","scatter","A","Q","J","chips","K","10","dice","bar","seven","wild","Q","J","pick"],
+  "reel3": ["A","K","Q","J","10","chips","dice","bar","seven","wild","A","Q","scatter","J","chips","K","10","dice","bar","seven","wild","Q","J","pick"],
+  "reel4": ["A","K","Q","J","10","chips","dice","bar","seven","wild","A","Q","J","chips","K","10","scatter","dice","bar","seven","wild","Q","J","pick"],
+  "reel5": ["A","K","Q","J","10","chips","dice","bar","seven","wild","A","Q","J","chips","K","10","dice","bar","scatter","seven","wild","Q","J"]
+}
